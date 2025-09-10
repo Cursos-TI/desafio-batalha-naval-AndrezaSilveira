@@ -5,11 +5,11 @@
 // Siga os comentários para implementar cada parte do desafio.
 
 int main() {
-    // Nível Novato - Posicionamento dos Navios
-    // int tabuleiro [5][5];).
-    // inte def tabuleiro(linha, coluna) |(5, 10).
+    printf("desafio xadrez!\n") ;
+    // int tabuleiro [10][10];).
+    // inte def tabuleiro(linha, coluna) |(10, 10).
     // `printf` para exibir as coordenadas de cada parte dos navios.
-
+    int posição dos navios (direita) ( esquerda)
     // Nível Aventureiro - Expansão do Tabuleiro e Posicionamento Diagonal
     // Sugestão: Expanda o tabuleiro para uma matriz 10x10.
     // Sugestão: Posicione quatro navios no tabuleiro, incluindo dois na diagonal.
